@@ -1,84 +1,65 @@
 # Hi, I'm Devapriya V Nair 👋
 
 🎓 **BCA Cyber Security Student**
-🔐 Interested in **Cybersecurity, Programming, and Web Development**
+🔐 Interested in **Cybersecurity, Programming & Web Development**
 📍 India
 
 ## 👩‍💻 About Me
 
-I'm a BCA Cyber Security student currently building my foundation in programming, databases, web development, and cybersecurity.
+I'm a BCA Cyber Security student building my skills in programming, databases, web development, and cybersecurity.
 
-I'm focused on learning by **building projects, solving problems, and understanding the concepts behind the code**.
+I learn by **building projects, solving problems, and understanding how things work** rather than simply copying code.
 
-Currently, I'm working with:
+### 💻 Technologies I'm Learning
 
-* 💻 C
-* ☕ Java
-* 🗄️ SQL & DBMS
-* 🌐 HTML & CSS
-* 🎨 Figma
-* 🐍 Python
+* **Languages:** C, Java, Python
+* **Database:** SQL, DBMS
+* **Web:** HTML, CSS
+* **Design:** Figma
+* **Core Concepts:** Data Structures, OOP, Database Management
 
-## 🛠️ Skills
+## 🚀 Projects
 
-### Programming
+I'm currently building projects based on what I'm learning.
 
-`C` `Java` `Python`
+| Project                       | Technology | Status         |
+| ----------------------------- | ---------- | -------------- |
+| 🔗 Linked List Operations     | C          | 🚧 In Progress |
+| ☕ Student Management System   | Java       | 📌 Planned     |
+| 🌐 Restaurant Website         | HTML, CSS  | 📌 Planned     |
+| 🗄️ Student Database          | SQL        | 📌 Planned     |
+| 🔐 Cybersecurity Mini Project | Python     | 📌 Planned     |
 
-### Database
+> Project links will be added as they are completed.
 
-`SQL` `DBMS`
+## 🎯 Current Focus
 
-### Web Development
-
-`HTML` `CSS`
-
-### Design
-
-`Figma`
-
-### Currently Learning
-
-`Data Structures` `Java OOP` `Database Management` `Web Development` `Cybersecurity`
-
-## 📌 Featured Projects
-
-🚧 **Projects are currently being developed.**
-
-I'm building projects based on what I'm learning, with a focus on writing and understanding my own code.
-
-### Upcoming Projects
-
-* 🔗 C Linked List Operations
-* ☕ Java Student Management System
-* 🌐 Restaurant Website
-* 🗄️ Student Database using SQL
-* 🔐 Beginner Cybersecurity Project
-
-## 🎯 My Goals
-
-* Strengthen my programming fundamentals
-* Build practical projects
-* Improve problem-solving skills
-* Learn cybersecurity concepts
-* Build a strong GitHub portfolio
-* Contribute to open-source projects
+* Strengthening programming fundamentals
+* Practicing Data Structures in C
+* Improving Java and OOP skills
+* Learning DBMS and SQL
+* Building web development projects
+* Exploring cybersecurity
+* Improving problem-solving skills
 
 ## 📚 Currently Studying
 
-* Data Structures
-* Java
-* DBMS
-* Web Development
-* Mathematics
-* English
-* Sanskrit
+`C` `Java` `DBMS` `HTML` `CSS` `Data Structures` `Cybersecurity`
+
+## 🌱 Goals
+
+* Build practical and original projects
+* Develop strong programming fundamentals
+* Gain hands-on cybersecurity experience
+* Contribute to open-source projects
+* Build a strong technical portfolio
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/devapriya-v-nair-3263a0398?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-* 📧 Email: [vdevapriyanair@gmail.com]
+* 💼 [LinkedIn](https://www.linkedin.com/in/devapriya-v-nair-3263a0398/)
+* 📧 [Email](mailto:vdevapriyanair@gmail.com)
 
 ---
 
 ⭐ **Learning, building, and improving one project at a time.**
+
