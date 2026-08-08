@@ -18,19 +18,7 @@ I learn by **building projects, solving problems, and understanding how things w
 * **Design:** Figma
 * **Core Concepts:** Data Structures, OOP, Database Management
 
-## 🚀 Projects
 
-I'm currently building projects based on what I'm learning.
-
-| Project                       | Technology | Status         |
-| ----------------------------- | ---------- | -------------- |
-| 🔗 Linked List Operations     | C          | 🚧 In Progress |
-| ☕ Student Management System   | Java       | 📌 Planned     |
-| 🌐 Restaurant Website         | HTML, CSS  | 📌 Planned     |
-| 🗄️ Student Database          | SQL        | 📌 Planned     |
-| 🔐 Cybersecurity Mini Project | Python     | 📌 Planned     |
-
-> Project links will be added as they are completed.
 
 ## 🎯 Current Focus
 
