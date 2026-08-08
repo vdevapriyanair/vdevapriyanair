@@ -1,62 +1,84 @@
- I'm Devapriya V Nair!
+# Hi, I'm Deva 👋
 
-Welcome to my GitHub profile! I am a first-year **BCA Honours (Cyber Security)** student at **Amrita University**. 
+🎓 **BCA Cyber Security Student**
+🔐 Interested in **Cybersecurity, Programming, and Web Development**
+📍 India
 
-Right now, I am a **complete beginner** to the world of IT and computer science. I am starting from the absolute basics, learning how to code, and exploring how technology works behind the scenes step-by-step.
+## 👩‍💻 About Me
+
+I'm a BCA Cyber Security student currently building my foundation in programming, databases, web development, and cybersecurity.
+
+I'm focused on learning by **building projects, solving problems, and understanding the concepts behind the code**.
+
+Currently, I'm working with:
+
+* 💻 C
+* ☕ Java
+* 🗄️ SQL & DBMS
+* 🌐 HTML & CSS
+* 🎨 Figma
+* 🐍 Python
+
+## 🛠️ Skills
+
+### Programming
+
+`C` `Java` `Python`
+
+### Database
+
+`SQL` `DBMS`
+
+### Web Development
+
+`HTML` `CSS`
+
+### Design
+
+`Figma`
+
+### Currently Learning
+
+`Data Structures` `Java OOP` `Database Management` `Web Development` `Cybersecurity`
+
+## 📌 Featured Projects
+
+🚧 **Projects are currently being developed.**
+
+I'm building projects based on what I'm learning, with a focus on writing and understanding my own code.
+
+### Upcoming Projects
+
+* 🔗 C Linked List Operations
+* ☕ Java Student Management System
+* 🌐 Restaurant Website
+* 🗄️ Student Database using SQL
+* 🔐 Beginner Cybersecurity Project
+
+## 🎯 My Goals
+
+* Strengthen my programming fundamentals
+* Build practical projects
+* Improve problem-solving skills
+* Learn cybersecurity concepts
+* Build a strong GitHub portfolio
+* Contribute to open-source projects
+
+## 📚 Currently Studying
+
+* Data Structures
+* Java
+* DBMS
+* Web Development
+* Mathematics
+* English
+* Sanskrit
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Add your LinkedIn profile here]
+* 📧 Email: [Add your email here]
 
 ---
 
-## 🌱 What I am Learning Right Now
-*Click on the arrows below to see what I am exploring in my college classes!*
-
-<details>
-<summary>💻 <b>Programming Languages</b></summary>
-<br>
-I am practicing logic and writing my very first programs in:
-<ul>
-  <li><b>Java</b> (Object-Oriented Programming basics)</li>
-  <li><b>C Programming</b> (Syntax and problem-solving)</li>
-</ul>
-</details>
-
-<details>
-<summary>🗄️ <b>Databases & Systems</b></summary>
-<br>
-Learning how computers store data and handle environments using:
-<ul>
-  <li><b>SQL & Oracle DB</b> (Learning structured queries)</li>
-  <li><b>Linux Basics</b> (Getting familiar with terminal commands)</li>
-</ul>
-</details>
-
-<details>
-<summary>🎨 <b>Design Tool</b></summary>
-<br>
-I enjoy the creative side of tech too! I am learning:
-<ul>
-  <li><b>Figma</b> (To map out clean, visual UI layouts)</li>
-</ul>
-</details>
-
----
-
-## 🎯 My Goals 
-- [ ] Understand the core fundamentals of programming
-- [ ] Build my very first simple student project
-- [ ] Keep learning and asking questions every day
-
----
-
-## 🤝 Let's Connect!
-Since I am just starting out, I would love to connect with fellow students, seniors, or anyone willing to share guidance!
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/devapriya-v-nair-3263a0398?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vdevapriyanair@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
+⭐ **Learning, building, and improving one project at a time.**
