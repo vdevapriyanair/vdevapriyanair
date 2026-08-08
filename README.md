@@ -76,8 +76,8 @@ I'm building projects based on what I'm learning, with a focus on writing and un
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile here]
-* 📧 Email: [Add your email here]
+* 💼 LinkedIn: [https://www.linkedin.com/in/devapriya-v-nair-3263a0398?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+* 📧 Email: [vdevapriyanair@gmail.com]
 
 ---
 
