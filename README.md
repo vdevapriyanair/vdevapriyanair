@@ -1,4 +1,4 @@
-# Hi, I'm Deva 👋
+# Hi, I'm Devapriya V Nair 👋
 
 🎓 **BCA Cyber Security Student**
 🔐 Interested in **Cybersecurity, Programming, and Web Development**
